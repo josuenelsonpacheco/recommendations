@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../dkr_app"
+		},
+		{
+			"path": "../../../rails_mongo"
+		}
+	],
+	"settings": {}
+}
